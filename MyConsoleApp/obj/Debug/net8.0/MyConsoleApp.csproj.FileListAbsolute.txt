@@ -1,0 +1,15 @@
+C:\Users\matta\my-app\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\matta\my-app\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\matta\my-app\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\matta\my-app\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\matta\my-app\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\matta\my-app\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
